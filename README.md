@@ -1,4 +1,4 @@
-## Jal-Sanchay Tracker
+# Jal-Sanchay Tracker
 
 Jal-Sanchay Tracker is a Kotlin Android application for Indian households that want to measure the impact of rainwater harvesting. The app lets users enter roof area, tank capacity, roof surface type, and daily rainfall. It then calculates litres of water saved, household water days, monthly conservation summaries, and practical water-saving tips.
 
@@ -196,13 +196,6 @@ Tank Fill Percentage = Today Saved Litres / Tank Capacity
 ```
 
 The value is capped between `0%` and `100%`.
-## Attachments
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 06 PM" src="https://github.com/user-attachments/assets/c9cbaf47-57f8-400f-8d8c-dcaa2f2963f1" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 06 PM (1)" src="https://github.com/user-attachments/assets/1d2fec79-e960-4f29-9e77-89aaa1c1ccb0" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 07 PM" src="https://github.com/user-attachments/assets/9bc4eefc-c618-4104-831c-f001fdc26979" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 07 PM (1)" src="https://github.com/user-attachments/assets/b9c95a48-3863-4430-9b1f-845a81dbda65" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 07 PM (2)" src="https://github.com/user-attachments/assets/5b444dc7-0b5d-483d-b258-d6df9d67e94c" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 8 25 08 PM" src="https://github.com/user-attachments/assets/d58b4166-6e12-4373-a4cc-4648a2038657" />
 
 ## Tech Stack
 
@@ -393,12 +386,9 @@ Settings > Apps > Jal-Sanchay Tracker > Storage > Clear Data
 - Multiple household profiles
 - Backup and restore option
 - Weather API integration for automatic rainfall import
-## Author / Project
-Pradeep S
 
 ## Project Status
 
 Current version: `1.0`
 
 Status: MVP Android app with local data persistence, six UI screens, rainfall calculation, dashboard, report, tips, and history.
-
