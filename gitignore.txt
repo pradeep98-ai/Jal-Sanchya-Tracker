@@ -1,7 +1,0 @@
-.gradle/
-.idea/caches/
-.idea/workspace.xml
-build/
-app/build/
-local.properties
-*.iml
